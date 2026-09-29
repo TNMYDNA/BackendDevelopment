@@ -1,5 +1,5 @@
 # Backend_class
-590014609
+(SAP:- 590014609)
 
 This repository contains my Backend Development class theory work and laboratory projects.
 
@@ -17,9 +17,10 @@ This repository contains my Backend Development class theory work and laboratory
 
 # Lab
 ## laboratory experiments and backend projects.
-  - [Exp 1](./Lab/Exp_1)
-  - [Exp 12](./Lab/Part_12)
-  - [Exp 13A](./Lab/Part_13A)
+  - [Exp 1](./Lab/Exp_1/README.md)
+  - [Exp 12 Part A](./Lab/Part_12/parta/README.md)
+  - [Exp 12 Part B](./Lab/Part_12/partb/README.md)
+  - [Exp 13A](./Lab/Part_13A/README.md)
 
 
 ![]()
