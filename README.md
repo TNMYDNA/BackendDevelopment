@@ -20,7 +20,7 @@ This repository contains my Backend Development class theory work and laboratory
   - [Exp 1](./Lab/Exp_1/README.md)
   - [Exp 12 Part A](./Lab/Part_12/parta/README.md)
   - [Exp 12 Part B](./Lab/Part_12/partb/README.md)
-  - [Exp 13A](./Lab/Part_13A/README.md)
+  - [Exp 13A](./Lab/Part_13A/Parta/README.md)
 
 
 ![]()
