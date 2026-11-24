@@ -30,7 +30,7 @@ Lecture notes, practical tasks, database exercises, and backend projects:
 Laboratory experiments and backend projects:
 
 - [Experiment 1: HTML5 Web Page](Lab/Exp_1/README.md)
-- [Experiment 5: JavaScript Fundamentals](Lab/Exp_5/README.md)
+- [Experiment 5: JavaScript Fundamentals](Lab/Exp_5/)
 - [Experiments 7–8: ES6 To-Do Application](Lab/Exp_7-8/README.md)
 - [Experiment 12 Part A: Express and EJS](Lab/EXP_12/parta/README.md)
 - [Experiment 12 Part B: Sessions and Cookies](Lab/EXP_12/partb/README.md)
