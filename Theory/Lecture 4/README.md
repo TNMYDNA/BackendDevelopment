@@ -1,5 +1,7 @@
 # Lecture 4 — API Testing and HTTP Requests
 
+**SAP ID:** 590014609
+
 This lecture demonstrates how to test backend APIs and inspect HTTP requests using browser developer tools, `curl`, Postman, and JavaScript's `fetch` API.
 
 ## Exercises

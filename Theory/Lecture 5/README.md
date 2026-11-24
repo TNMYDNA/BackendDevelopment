@@ -1,5 +1,7 @@
 # Lecture 5 — FastAPI CRUD and API Documentation
 
+**SAP ID:** 590014609
+
 This lecture introduces FastAPI through in-memory CRUD APIs, query filtering, request validation with Pydantic, and automatically generated API documentation.
 
 ## Examples

@@ -1,5 +1,7 @@
 # Lecture 6 — Sessions, Cookies, and Query Strings
 
+**SAP ID:** 590014609
+
 This lecture demonstrates common ways to maintain user state and read client-supplied values in Express.js applications.
 
 ## Examples

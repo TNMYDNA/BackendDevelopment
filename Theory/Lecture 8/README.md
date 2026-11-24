@@ -1,5 +1,7 @@
 # Lecture 8 — Server-Side Rendering and Static Content
 
+**SAP ID:** 590014609
+
 This lecture compares server-side rendering approaches in Node.js and Python, and demonstrates how Express serves static assets alongside rendered views.
 
 ## Sections

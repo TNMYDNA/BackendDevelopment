@@ -1,5 +1,7 @@
 # Lecture 7 — Browser Storage and JSON
 
+**SAP ID:** 590014609
+
 This lecture explores browser storage APIs and JSON serialization. The examples use `localStorage`, `sessionStorage`, `JSON.stringify()`, and `JSON.parse()` to save and retrieve data in the browser.
 
 ## Topics covered

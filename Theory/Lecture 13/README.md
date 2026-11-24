@@ -1,5 +1,7 @@
 # Lecture 13 — Relational and NoSQL Databases
 
+**SAP ID:** 590014609
+
 This lecture introduces database fundamentals by comparing PostgreSQL, a relational database, with MongoDB, a NoSQL document database. The examples use the same student-management scenario in both systems.
 
 ## Files

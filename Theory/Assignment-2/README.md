@@ -1,5 +1,7 @@
 # Assignment 2 — PostgreSQL as SQL + NoSQL: Working with JSONB
 
+**SAP ID:** 590014609
+
 ## Learning Objective
 
 Understand how PostgreSQL's `jsonb` type lets a single relational database act as both a SQL and a NoSQL (document-style) engine, and evaluate where it can substitute for MongoDB.
