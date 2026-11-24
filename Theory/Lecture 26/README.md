@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lecture 26 — Django Student Management API
+permalink: /Theory/Lecture%2026/
 ---
 
 # Lecture 26 — Django Student Management API
