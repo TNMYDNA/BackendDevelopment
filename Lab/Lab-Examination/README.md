@@ -1,42 +1,49 @@
-# My Notes
+# Lab Examination — MongoDB Notes Application
 
-A basic Notes Management Application built using Node.js, Express.js, EJS, and MongoDB.
+**SAP ID:** 590014609
+
+This project is an Express.js notes application that uses MongoDB for persistent storage and EJS for server-side rendering.
 
 ## Features
 
-- Display all notes
-- Add a new note
-- Delete a note
-- Store notes in MongoDB
-- Server-side rendering using EJS
-- Basic input validation
-- CSS interface
+- Add notes with a title, content, and category.
+- Display all saved notes.
+- Delete notes by MongoDB ObjectId.
+- Render pages with EJS templates.
+- Serve CSS from the `public` directory.
 
 ## Requirements
 
-- Node.js
-- MongoDB
+- Node.js 18 or newer
+- npm
+- MongoDB running locally on port `27017`
 
-## Installation
+## Setup
 
-Install the required packages:
+From this directory, install the dependencies:
 
-`npm install`
+```bash
+npm install
+```
 
-## Run the Application
+The application connects to MongoDB at:
 
-Start the server:
+```text
+mongodb://127.0.0.1:27017/notes_lab
+```
 
-`node server.js`
+## Run the application
 
-Open the application in a browser:
+```bash
+node server.js
+```
 
-`http://localhost:3000`
+Open [http://localhost:3000](http://localhost:3000) in a browser.
 
-## MongoDB
+## Routes
 
-The application uses:
+- `GET /` — display all notes.
+- `POST /notes` — create a note.
+- `POST /notes/:id/delete` — delete a note.
 
-- MongoDB URL: `mongodb://127.0.0.1:27017`
-- Database: `notes_lab`
-- Collection: `notes`
+Notes are stored in the `notes_lab` database and the `notes` collection.
