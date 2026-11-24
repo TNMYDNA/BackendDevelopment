@@ -1,3 +1,9 @@
+---
+layout: default
+title: Experiment 13 Part A — MongoDB and Mongoose
+permalink: /Lab/EXP_13A/Parta/
+---
+
 # Experiment 13 Part A: MongoDB, Mongoose, and Express User Registration and Login System
 
 **Course:** Backend Development  
