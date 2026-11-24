@@ -20,7 +20,7 @@ Lecture notes, practical tasks, database exercises, and backend projects:
 - [Lecture 13: Relational and NoSQL Databases](Theory/Lecture%2013/README.md)
 - [Lecture 14: Database Design and Normalization](Theory/Lecture%2014/README.md)
 - [Lecture 15: ORM, MongoDB, and Data Validation](Theory/Lecture%2015/README.md)
-- [Lecture 26: Django Student Management API](Theory/Lecture%2026/README.md)
+- [Lecture 26: Django Student Management API](Theory/Lecture%2026/index.html)
 - [Docker Bind Mount Example](Theory/docker-bind/README.md)
 - [Docker Build Example](Theory/docker-build/README.md)
 - [Express Project](Theory/express-project/README.md)
