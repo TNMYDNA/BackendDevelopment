@@ -61,7 +61,7 @@ export DJANGO_SECRET_KEY="your-secret-key"
 python manage.py runserver
 ```
 
-Open [http://127.0.0.1:8000/](http://127.0.0.1:8000/) to view the task list.
+While the server is running, enter `http://127.0.0.1:8000/` in your browser to view the task list.
 
 ## Routes
 
