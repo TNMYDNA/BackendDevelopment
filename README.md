@@ -25,12 +25,18 @@ Lecture notes, practical tasks, database exercises, and backend projects:
 - [Docker Build Example](Theory/docker-build/README.md)
 - [Express Project](Theory/express-project/README.md)
 
-# Lab
-## laboratory experiments and backend projects.
-  - [Exp 1](./Lab/Exp_1/README.md)
-  - [Exp 12 Part A](./Lab/Part_12/parta/README.md)
-  - [Exp 12 Part B](./Lab/Part_12/partb/README.md)
-  - [Exp 13A](./Lab/Part_13A/Parta/README.md)
+## Lab
+
+Laboratory experiments and backend projects:
+
+- [Experiment 1: HTML5 Web Page](Lab/Exp_1/README.md)
+- [Experiment 5: JavaScript Fundamentals](Lab/Exp_5/README.md)
+- [Experiments 7–8: ES6 To-Do Application](Lab/Exp_7-8/README.md)
+- [Experiment 12 Part A: Express and EJS](Lab/EXP_12/parta/README.md)
+- [Experiment 12 Part B: Sessions and Cookies](Lab/EXP_12/partb/README.md)
+- [Experiment 13A: MongoDB and Mongoose](Lab/EXP_13A/Parta/README.md)
+- [Experiment 15: Django To-Do Application](Lab/Exp_15/README.md)
+- [Lab Examination: MongoDB Notes Application](Lab/Lab-Examination/README.md)
 
 
 ![]()
