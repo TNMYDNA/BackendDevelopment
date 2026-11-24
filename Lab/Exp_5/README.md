@@ -48,6 +48,8 @@ node script2.js
 node library.js
 ```
 
+This experiment does not start a web server and does not use `localhost:5000`. The results appear in the terminal.
+
 The output is printed in the terminal and includes the results of each operation.
 
 ## Concepts covered
