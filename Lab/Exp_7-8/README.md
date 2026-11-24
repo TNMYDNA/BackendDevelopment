@@ -1,50 +1,30 @@
-# Experiment 07 & 08: ES6, DOM Manipulation, and Event Handling
+# Experiment 7–8 — ES6 To-Do Application
 
-## 1. Objective
+**SAP ID:** 590014609
 
-To understand and apply ES6 (ECMAScript 2015) features in JavaScript, learn DOM manipulation, and implement event handling to build interactive web pages.
+This experiment builds a browser-based to-do list using modern JavaScript (ES6+) and DOM event handling.
 
-## 2. Prerequisites
+## Features
 
-- Basic knowledge of HTML and CSS
-- Familiarity with JavaScript variables, functions, loops, and conditionals
-- VS Code or another text editor
-- A modern web browser
+- Add tasks using the button or the Enter key.
+- Mark tasks as complete by clicking the task.
+- Delete tasks with the Delete button.
+- Render the current task list dynamically in the browser.
+- Create tasks with an ES6 `class` and update arrays with spread, `map()`, and `filter()`.
 
-## 3. Experiment Sections
+## Files
 
-### Part A: ES6 Features
-- `let` and `const`
-- Arrow functions
-- Template literals
-- Destructuring
-- Spread and rest operators
-- Default parameters
-- Classes and inheritance
-- Modules
-- Promises and async/await
-- Enhanced object literals
+- `index.html` — page layout and styling.
+- `app.js` — task model, event listeners, rendering, completion, and deletion logic.
 
-### Part B: DOM Manipulation
-- Selecting HTML elements
-- Modifying content and attributes
-- Modifying CSS styles
-- Creating and removing elements
-- Traversing the DOM
+## Run the experiment
 
-### Part C: Event Handling
-- Event listeners
-- Common event types
-- Event objects
-- Keyboard and form events
-- Event bubbling and capturing
-- `stopPropagation()` and `preventDefault()`
-- Event delegation
+Open `index.html` directly in a browser, or serve the folder locally:
 
-## 4. Practical Exercise: Interactive To-Do List
+```bash
+python3 -m http.server 8000
+```
 
-Build a To-Do List application that allows users to add, complete, and delete tasks using JavaScript, DOM manipulation, and event listeners.
+Then open [http://localhost:8000](http://localhost:8000).
 
-## 5. Learning Outcome
-
-After completing this experiment, students should be able to use modern JavaScript features, dynamically modify web pages, and respond to user interactions.
+Tasks are stored in memory and will reset when the page is refreshed.
