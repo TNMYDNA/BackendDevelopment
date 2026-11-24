@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lecture 26 — Django Student Management API
+---
+
 # Lecture 26 — Django Student Management API
 
 **SAP ID:** 590014609
