@@ -1,3 +1,9 @@
+---
+layout: default
+title: Experiment 7–8 — ES6 To-Do Application
+permalink: /Lab/Exp_7-8/
+---
+
 # Experiment 7–8 — ES6 To-Do Application
 
 **SAP ID:** 590014609
