@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lecture 4 — API Testing and HTTP Requests
+permalink: /Theory/Lecture%204/
+---
+
 # Lecture 4 — API Testing and HTTP Requests
 
 **SAP ID:** 590014609

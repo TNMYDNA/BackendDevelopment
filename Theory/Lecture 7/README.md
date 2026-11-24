@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lecture 7 — Browser Storage and JSON
+permalink: /Theory/Lecture%207/
+---
+
 # Lecture 7 — Browser Storage and JSON
 
 **SAP ID:** 590014609

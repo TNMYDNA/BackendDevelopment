@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lecture 3 — Backend Routes and Responses
+permalink: /Theory/Lecture%203/
+---
+
 # Lecture 3 — Backend Routes and Responses
 
 **SAP ID:** 590014609

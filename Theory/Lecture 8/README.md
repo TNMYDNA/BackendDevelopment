@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lecture 8 — Server-Side Rendering and Static Content
+permalink: /Theory/Lecture%208/
+---
+
 # Lecture 8 — Server-Side Rendering and Static Content
 
 **SAP ID:** 590014609

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lecture 15 — ORM, MongoDB, and Data Validation
+permalink: /Theory/Lecture%2015/
+---
+
 # Lecture 15 — ORM, MongoDB, and Data Validation
 
 **SAP ID:** 590014609

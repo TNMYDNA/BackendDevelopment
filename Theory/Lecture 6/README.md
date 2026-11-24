@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lecture 6 — Sessions, Cookies, and Query Strings
+permalink: /Theory/Lecture%206/
+---
+
 # Lecture 6 — Sessions, Cookies, and Query Strings
 
 **SAP ID:** 590014609

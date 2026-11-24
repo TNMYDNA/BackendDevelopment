@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lecture 13 — Relational and NoSQL Databases
+permalink: /Theory/Lecture%2013/
+---
+
 # Lecture 13 — Relational and NoSQL Databases
 
 **SAP ID:** 590014609

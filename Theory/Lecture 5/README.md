@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lecture 5 — FastAPI CRUD and API Documentation
+permalink: /Theory/Lecture%205/
+---
+
 # Lecture 5 — FastAPI CRUD and API Documentation
 
 **SAP ID:** 590014609

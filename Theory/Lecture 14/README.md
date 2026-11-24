@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lecture 14 — Database Design and Normalization
+permalink: /Theory/Lecture%2014/
+---
+
 # Lecture 14 — Database Design and Normalization
 
 **SAP ID:** 590014609

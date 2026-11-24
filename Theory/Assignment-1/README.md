@@ -1,3 +1,9 @@
+---
+layout: default
+title: Assignment 1 — Notes Manager
+permalink: /Theory/Assignment-1/
+---
+
 # Assignment 1: Notes Manager
 **(SAP:- 590014609)**
 
