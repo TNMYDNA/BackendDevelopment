@@ -60,7 +60,7 @@ mongodb://127.0.0.1:27017/notes_lab
 node server.js
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in a browser.
+While the server is running, enter `http://localhost:3000` in your browser.
 
 ## Routes
 
