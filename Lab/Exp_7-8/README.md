@@ -31,6 +31,6 @@ Open `index.html` directly in a browser, or serve the folder locally:
 python3 -m http.server 8000
 ```
 
-Then open [http://localhost:8000](http://localhost:8000).
+Then, while the server is running, enter `http://localhost:8000` in your browser.
 
 Tasks are stored in memory and will reset when the page is refreshed.
