@@ -25,7 +25,7 @@ npm install
 npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) for the home page or [http://localhost:3000/students](http://localhost:3000/students) for the rendered student list.
+Open 'http://localhost:3000' for the home page or 'http://localhost:3000/students' for the rendered student list.
 
 ## FastAPI and Jinja2 example
 
@@ -36,7 +36,7 @@ python -m pip install fastapi uvicorn jinja2
 python main.py
 ```
 
-Open [http://127.0.0.1:8000](http://127.0.0.1:8000) to view the rendered page.
+Open 'http://127.0.0.1:8000' to view the rendered page.
 
 ## Static-content example
 
@@ -47,4 +47,4 @@ npm install
 node app.js
 ```
 
-Open [http://localhost:3000/students](http://localhost:3000/students) to view the EJS-rendered student list. Files placed in the `public` directory are served as static content.
+Open 'http://localhost:3000/students' to view the EJS-rendered student list. Files placed in the `public` directory are served as static content.

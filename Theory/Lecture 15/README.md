@@ -48,4 +48,4 @@ python -m pip install "fastapi[email]" uvicorn
 uvicorn app:app --reload
 ```
 
-The `POST /students` endpoint validates names, email addresses, branches, and enrollment dates. Interactive documentation is available at [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs).
+The `POST /students` endpoint validates names, email addresses, branches, and enrollment dates. Interactive documentation is available at 'http://127.0.0.1:8000/docs'.

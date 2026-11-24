@@ -31,9 +31,9 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-Open [http://127.0.0.1:8000/](http://127.0.0.1:8000/). The root endpoint returns a JSON response containing the API message, version, and running status.
+Open 'http://127.0.0.1:8000/'. The root endpoint returns a JSON response containing the API message, version, and running status.
 
-The Django admin is available at [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/) after creating a superuser:
+The Django admin is available at 'http://127.0.0.1:8000/admin/' after creating a superuser:
 
 ```bash
 python manage.py createsuperuser

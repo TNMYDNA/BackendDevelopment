@@ -28,7 +28,7 @@ Open any HTML file directly in a browser, or serve this folder with a local web 
 python3 -m http.server 8000
 ```
 
-Then open [http://localhost:8000](http://localhost:8000) and select an exercise.
+Then open 'http://localhost:8000' and select an exercise.
 
 Open the browser developer tools to view the console output and inspect stored values under the browser's Storage or Application panel.
 

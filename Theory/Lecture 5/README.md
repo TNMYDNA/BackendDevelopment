@@ -41,7 +41,7 @@ For the course API:
 uvicorn "Lab Exercise.Task-1-Course-API:app" --reload --port 5001
 ```
 
-The student API is available at [http://127.0.0.1:5000](http://127.0.0.1:5000), and the course API at [http://127.0.0.1:5001](http://127.0.0.1:5001).
+The student API is available at 'http://127.0.0.1:5000', and the course API at 'http://127.0.0.1:5001'.
 
 ## API documentation
 
@@ -50,4 +50,4 @@ FastAPI generates interactive documentation automatically:
 - Swagger UI: `/docs`
 - ReDoc: `/redoc`
 
-For example, open [http://127.0.0.1:5000/docs](http://127.0.0.1:5000/docs) after starting the student API.
+For example, open 'http://127.0.0.1:5000/docs' after starting the student API.

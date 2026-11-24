@@ -37,7 +37,7 @@ For Task 5, install EJS as well:
 npm install express ejs
 ```
 
-The servers run on [http://localhost:3000](http://localhost:3000).
+The servers run on 'http://localhost:3000'.
 
 ## Run the Flask examples
 
@@ -48,4 +48,4 @@ python -m pip install flask
 python app.py
 ```
 
-The Flask development server is available at [http://127.0.0.1:5000](http://127.0.0.1:5000).
+The Flask development server is available at 'http://127.0.0.1:5000'.
