@@ -34,7 +34,7 @@ Laboratory experiments and backend projects:
 - [Experiment 5: JavaScript Fundamentals](Lab/Exp_5/README.md)
 - [Experiments 7–8: ES6 To-Do Application](Lab/Exp_7-8/README.md)
 - [Experiment 9: Asynchronous Data Exchange Using AJAX](Lab/Exp_9/README.html)
-- [Experiment 10: jQuery DOM Manipulation and AJAX](Lab/Exp_10/README.md)
+- [Experiment 10: jQuery DOM Manipulation and AJAX](Lab/Exp_10/README.html)
 - [Experiment 11: Asynchronous Student and Course Portal](Lab/Exp_11/README.md)
 - [Experiment 12 Part A: Express and EJS](Lab/EXP_12/parta/README.md)
 - [Experiment 12 Part B: Sessions and Cookies](Lab/EXP_12/partb/README.md)

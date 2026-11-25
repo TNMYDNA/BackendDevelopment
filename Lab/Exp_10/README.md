@@ -1,3 +1,8 @@
+---
+layout: default
+title: Experiment 10: jQuery DOM Manipulation and AJAX
+---
+
 # Experiment 10: jQuery DOM Manipulation and AJAX
 
 **Course:** Backend Development  
