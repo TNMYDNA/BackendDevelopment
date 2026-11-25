@@ -1,3 +1,8 @@
+---
+layout: default
+title: Experiment 9: Asynchronous Data Exchange Using AJAX
+---
+
 # Experiment 9: Asynchronous Data Exchange Using AJAX
 
 **Course:** Backend Development  
